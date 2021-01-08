@@ -13,6 +13,8 @@
         { "predicate": {"custom_model_data":7}, "model": "item/ready" },
 		{ "predicate": {"custom_model_data":8}, "model": "item/notready" },
 		{ "predicate": {"custom_model_data":9}, "model": "item/ready" },
-		{ "predicate": {"custom_model_data":10}, "model": "item/crpack" }
+		{ "predicate": {"custom_model_data":10}, "model": "item/crpack" },
+{ "predicate": {"custom_model_data":12}, "model": "item/cook_enc" },
+{ "predicate": {"custom_model_data":404}, "model": "item/debuger" }
 	]
 }

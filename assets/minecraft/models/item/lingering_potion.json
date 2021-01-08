@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/lingering_potion"
+    },
+		"overrides": [
+{ "predicate": {"custom_model_data":11}, "model": "item/pufferbomb" }
+	]
+}
