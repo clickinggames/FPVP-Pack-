@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+		"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/jtpk_norm" },
+		{ "predicate": {"custom_model_data":2}, "model": "item/fpvp_apple" },
+		{ "predicate": {"custom_model_data":3}, "model": "item/zeus" },
+		{ "predicate": {"custom_model_data":4}, "model": "item/shitpack" },
+		{ "predicate": {"custom_model_data":5}, "model": "item/canepack" },
+		{ "predicate": {"custom_model_data":6}, "model": "item/fart" },
+        { "predicate": {"custom_model_data":7}, "model": "item/ready" },
+		{ "predicate": {"custom_model_data":8}, "model": "item/notready" },
+		{ "predicate": {"custom_model_data":9}, "model": "item/ready" },
+		{ "predicate": {"custom_model_data":10}, "model": "item/crpack" }
+	]
+}

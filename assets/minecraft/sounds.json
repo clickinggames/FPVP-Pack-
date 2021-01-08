@@ -1,0 +1,12 @@
+{
+	"fpvp.sounds.bip": {
+		"sounds":[
+			"fpvp/bip"
+		]
+	},
+	"fpvp.sounds.battle": {
+		"sounds":[
+			"fpvp/battle"
+		]
+	}
+}
