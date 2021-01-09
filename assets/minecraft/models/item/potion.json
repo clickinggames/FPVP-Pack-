@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/potiow"
+    },
+		"overrides": [
+{ "predicate": {"custom_model_data":19}, "model": "item/potion_sugar" }
+	]
+}
